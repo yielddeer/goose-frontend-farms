@@ -24,7 +24,7 @@ const farms: FarmConfig[] = [
     lpSymbol: 'EGG-BNB LP',
     lpAddresses: {
       97: '',
-      56: '0x36beD7795fa4b410035a370b40503cd664bdfa05',
+      56: '0xDAC965EcF6f44C95e1934Ce311438C3eFF2a17e6',
     },
     tokenSymbol: 'EGG',
     tokenAddresses: {
