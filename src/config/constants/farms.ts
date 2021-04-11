@@ -8,7 +8,7 @@ const farms: FarmConfig[] = [
     lpSymbol: 'EGG-BUSD LP',
     lpAddresses: {
       97: '',
-      56: '0x36beD7795fa4b410035a370b40503cd664bdfa05',
+      56: '0xDC6252e0D0C265edD682D482c1baf6F917796A04',
     },
     tokenSymbol: 'EGG',
     tokenAddresses: {
